@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BrightMfonX
+- 👋 Hi, I’m @xsylvester
 - 👀 I’m interested in python programming 
-- 🌱 I’m currently learning the wxpthon module 
-- 💞️ 
+- 🌱 Fullstack Wizard 
+- 💞️ Embedded Programming 
 
 <!---
 BrightMfonX/BrightMfonX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
